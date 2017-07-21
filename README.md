@@ -1,2 +1,5 @@
 # Stylized-Facts-of-Macroeconomic-and-Wind-Power-Forecast-Errors
 Code basis of my Bachelor Thesis "Stylized Facts of Macroeconomic and Wind Power Forecast Errors".  
+
+The goal is to find stylized facts of forecast errors. Stylized facts are simplified abstractions of common statistical properties and were first introduced by Kaldor (1961). Cont (2001) defines stylized facts in the scope of asset returns as statistical properties which are common across "many instruments, markets and time periods". Transferred to this work we look for statistical properties which are common across many forecast methods, sectors and time periods. Further- more, we distinguish between sectors, as there can be properties which are only common in a single sector. In order to do this we will gather character- istics and properties of our time series and look for common denominators.
+Furthermore, this work presents the principle of cointegration and error correction models and its classification in the scope of stylized facts of forecast errors.
